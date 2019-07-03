@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ezidio/react-challenge.git"
+    "url": "git+https://github.com/faravinicius/think-react-test.git"
   },
-  "author": "Everton Tavares",
+  "author": "Rafael Almeida",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ezidio/react-challenge/issues"
+    "url": "https://github.com/faravinicius/think-react-test/issues"
   },
-  "homepage": "https://github.com/ezidio/react-challenge#readme"
+  "homepage": "https://github.com/faravinicius/think-react-test#readme"
 }
