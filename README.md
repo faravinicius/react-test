@@ -6,7 +6,7 @@ Neste teste existem várias respostas corretas, pois o objetivo é avaliar a sua
 
 ## Obrigatoriedades
 
-O projeto deve utilizar webpack, e deve ser desenvolvido em React, e utilizar Redux para o carrinho de compras.
+O projeto deve utilizar webpack, e deve ser desenvolvido em React, e utilizar Redux + Saga para o carrinho de compras.
 obs(O projeto pode ser iniciado com create-react-app)
 
 O Front-End deve utilizar Material UI: https://material-ui-next.com/
@@ -57,7 +57,6 @@ A finalização do pedido deve:
     - Rua
     - Bairro
     - Número
-    - CEP
 
 ## Serviço Rest
 
